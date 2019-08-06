@@ -1,3 +1,4 @@
 *.json
 /experiments/*
 /__pycache__/*
+*.dstore
