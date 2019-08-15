@@ -1,6 +1,6 @@
 *.json
 /experiments/*
 /__pycache__/*
-*.dstore
+*.DS_Store
 *.h5
 *.p
